@@ -1,2 +1,2 @@
-# Kuberenetes_MongoDB
+# Kubernetes_MongoDB
 Deployment of MongoDB &amp; MongoExpress Pod with Services 
