@@ -1,0 +1,1 @@
+Access MongoExpress application running in a container inside a POD from external world
